@@ -8,9 +8,8 @@ Disciplina: Cross-Platform Application Development — FIAP, Ciência da Computa
 
 | Nome completo | RM |
 |---|---|
-| NOME COMPLETO 1 | RM00000 |
-| NOME COMPLETO 2 | RM00000 |
-| NOME COMPLETO 3 | RM00000 |
+| Julia Lopes | 566557 |
+| Claus Moreira | 565503 |
 
 ## Funcionalidades
 
