@@ -8,7 +8,7 @@ Disciplina: Cross-Platform Application Development — FIAP, Ciência da Computa
 
 | Nome completo | RM |
 |---|---|
-| Julia Lopes | 566557 |
+| Julia Lopes | 566557 
 | Claus Moreira | 565503 |
 
 ## Funcionalidades
@@ -93,3 +93,4 @@ src/
   utils/               # formatação de números e datas
   theme.js             # identidade visual
 ```
+:D
